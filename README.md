@@ -9,7 +9,7 @@ This project is a complete Spanish supermarket analysis that includes the follow
 - Make graph analysis to see communities and other interesting information.
 - Generate a interactive Gradio dashboard that includes all previous steps in one, where the user can search for products based on different filters and then get recommendations based on them. Also, they can explore some information of the differnt supermarkets.
 
-This project has been made in collaboration with Sara Piñas, María Ángeles Magro and Eduardo González.
+This project has been made in collaboration with Sara Piñas, Marina Gómez Rey and Eduardo González.
 
 ## Files
 
